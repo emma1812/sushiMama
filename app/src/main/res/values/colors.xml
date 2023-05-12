@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA500</color>
+    <color name="colorPrimaryDark">#FF8C00</color>
+    <color name="colorAccent">#FFC04D</color>
+    <color name="colorLogoMain">#FFA500</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="cost_for_one">#757575</color>
+    <color name="colorGrey">#909090</color>
+
+</resources>

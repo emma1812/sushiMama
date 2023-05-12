@@ -1,0 +1,68 @@
+<resources>
+
+    <string name="app_name">Sushi Time</string>
+    <string name="mobile_number_10_digits">Mobile Number (10 digits)</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now.</string>
+    <string name="shared_preferences">Preferences</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="add_to_cart_btn">Ajouter</string>
+    <string name="proceed_to_cart_btn">Payer</string>
+    <string name="choose_from_menu_listed_below">Choisisez votre menu:</string>
+    <string name="ordering_from">Ordering From: </string>
+    <string name="place_order">Place Order (Rs)</string>
+
+    <string name="your_previous_orders_are_listed_below">Vos commandes precedentes:</string>
+    <string name="your_order_has_been_placed_successfully">Votre commande a ete traite avec succes</string>
+    <string name="ok">OK</string>
+    <string name="search_restaurants">Search Restaurants</string>
+    <string name="enter_the_otp_received_below">Enter the OTP received below</string>
+    <string name="otp_4_characters">OTP (4 characters)</string>
+    <string name="otp_will_be_send_to_the_registered_email">OTP will be send to the registered email id</string>
+    <string name="enter_the_following_details">Enter the following details</string>
+    <string name="next">Next</string>
+    <string name="register">Register</string>
+    <string name="_300_person">300/person</string>
+    <string name="_4_5">4.5</string>
+    <string name="kartikey_sharma">Super Emma</string>
+    <string name="pind_tadka">Le jap\'</string>
+    <string name="_22_12_2018">22/12/2018</string>
+    <string name="rs_200">4.00</string>
+    <string name="cost_low_to_high">Prix (Deccendant)</string>
+    <string name="cost_high_to_low">Prix (Accendant)</string>
+    <string name="rating">classement</string>
+    <string name="add">Ajouter</string>
+    <string name="remove">Retirer</string>
+    <string name="name_min_3_characters">Name (Min 3 characters)</string>
+    <string name="email_address">Email</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="password_min_4_digits">Password (Min 4 digits)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="you_do_not_have_any_favourite_restaurants">Ici vos restaurants favorie</string>
+    <string name="you_haven_t_placed_any_orders_yet">Vous n\'avez pas de commandes encore</string>
+    <string name="rs_400">3.84</string>
+    <string name="default_number">+33 6 00 00 00 00</string>
+    <string name="no_restaurants_found">Pas de restaurant trouve</string>
+
+    <!-- Questions and Answers for FAQs-->
+    <string name="question1">Q1.Pourquoi Sushi Time et Mama fait cela?</string>
+    <string name="answer1">A1. Les utilisateurs peuvent parcourir le menu,
+        ajouter des articles à leur panier, sélectionner des options personnalisées et payer
+        en utilisant des méthodes de paiement sécurisées. Certains applications de
+        sushi offrent également des offres exclusives et des programmes de fidélité
+        pour les utilisateurs réguliers. Les clients peuvent également suivre leur commande en
+        temps réel et recevoir des notifications sur leur téléphone pour suivre la livraison.</string>
+    <string name="question2">Q2. Comment êtons différents des autres applications de livraison ?</string>
+    <string name="answer2">
+        Nous sommes bien mieux.
+    </string>
+    <string name="question3">Q3. Puis-je commander depuis 2 ou plusieurs restaurants en même temps ?</string>
+    <string name="answer3">A3. Non pas dans cette version.</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="new_password_min_4_digits">New Password (Min 4 digits)</string>
+    <string name="submit">Submit</string>
+
+</resources>
